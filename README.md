@@ -22,3 +22,10 @@ Ferrie J Bank,
 Amsterdam 11 September 2021
 
 https://github.com/oudesnepelaar
+
+
+transistors: C189428 (LCSC.com) 1W NPN 0.6A 40V SOT-223 Bipolar Transistors - BJT ROHS
+capacitors: C15850 (10 uF) C307348 (100 nF) C29823 (4.7 uF)
+shift register: C161627 (MC14094BDR2G 3-state outputs, 8 bits shift register)
+pinheaders 15F (Nano): C124408
+switches: C669810
