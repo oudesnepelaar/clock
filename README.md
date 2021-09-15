@@ -29,3 +29,4 @@ capacitors: C15850 (10 uF) C307348 (100 nF) C29823 (4.7 uF)
 shift register: C161627 (MC14094BDR2G 3-state outputs, 8 bits shift register)
 pinheaders 15F (Nano): C124408
 switches: C669810
+resistors: C23140 (33 Ohm) C17714 (47 Ohm) C4275 (75 Ohm)
